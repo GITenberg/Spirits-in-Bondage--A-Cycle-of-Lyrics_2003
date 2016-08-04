@@ -1,0 +1,47 @@
+_repo: Spirits-in-Bondage--A-Cycle-of-Lyrics_2003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, C. S. (Clive Staples)
+    aliases:
+    - Hamilton, Clive
+    - Lewis, Clive Staples
+    birthdate: 1898
+    deathdate: 1963
+    gutenberg_agent_id: '782'
+    url: http://www.gutenberg.org/2009/agents/782
+    wikipedia: http://en.wikipedia.org/wiki/C._S._Lewis
+description: "Spirits in Bondage (1919) was C. S. Lewis's first published work (originally\
+  \ published under the pseudonym Clive Hamilton, which is Lewis' first name followed\
+  \ by his mother's maiden name). Lewis was twenty years old and had just returned\
+  \ from military service in the First World War. His tutor, William T. Kirkpatrick,\
+  \ encouraged him in publishing the book, although it was unusual at Lewis's age,\
+  \ as writers were expected to wait longer before sharing their work with the world.\
+  \ The book is subtitled A Cycle of Lyrics and is composed of three different sections\
+  \ of poetry. The poems take on several styles and rhythms throughout the book, but\
+  \ share common themes. This work stands out among Lewis's writings not only because\
+  \ of the focus on poetry rather than prose, but because the author had not yet made\
+  \ his conversion to Christianity; therefore the themes and worldviews offered in\
+  \ Spirits in Bondage differ greatly from those for which Lewis is most well known.\
+  \ The book received no reviews and its reception was a slight disappointment for\
+  \ Lewis.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2003'
+  wikidata: Q7578079
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- !lcsh 'God -- Poetry'
+- !lcsh 'Good and evil -- Poetry'
+- !lcsh 'Cynicism -- Poetry'
+- GITenberg
+title: 'Spirits in Bondage: A Cycle of Lyrics'
+url: http://www.gutenberg.org/ebooks/2003
+wikipedia:
+- https://en.wikipedia.org/wiki/Spirits_in_Bondage
