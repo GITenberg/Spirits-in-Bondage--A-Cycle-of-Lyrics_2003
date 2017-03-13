@@ -1,5 +1,8 @@
 _repo: Spirits-in-Bondage--A-Cycle-of-Lyrics_2003
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lewis, C. S. (Clive Staples)
@@ -25,6 +28,8 @@ description: "Spirits in Bondage (1919) was C. S. Lewis's first published work (
   \ Spirits in Bondage differ greatly from those for which Lewis is most well known.\
   \ The book received no reviews and its reception was a slight disappointment for\
   \ Lewis.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2003#Spirits-in-Bondage--A-Cycle-of-Lyrics
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
 identifiers:
